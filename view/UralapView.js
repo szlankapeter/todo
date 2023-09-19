@@ -17,7 +17,7 @@ class Urlap{
     }
 
     #adatGyujt(){
-        
+        $("#adat1").val();
     }
 
     #urlapLetrehoz(){
