@@ -13,8 +13,6 @@ class Elem {
         this.torolElem = this.soreElem.children("td").children(".torol");
         console.log(this.keszElem);
 
-
-
         this.keszElem.on("click", () => {
             this.esemeny("kesz");
         });
